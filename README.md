@@ -40,7 +40,7 @@ STEP 5: From the data in step 4, creates a second, independent tidy data set wit
 Code Book:
 ----------
 
-This code book is modified from the original code book, by Reyes-Ortiz, Anguita, Ghio and Oneto 2012, which is given in italics. The code book for the data into a tidy data set is given below the quoted information.
+This code book is modified from the original code book, by Reyes-Ortiz, Anguita, Ghio and Oneto 2012, which is given as a blockquote. The code book for the data into a tidy data set is given below the quoted information.
 
 
 
